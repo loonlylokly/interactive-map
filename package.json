@@ -1,0 +1,18 @@
+{
+  "name": "interactive-map",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/ol": "^7.0.0",
+    "sass-embedded": "^1.89.2",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "ol": "latest"
+  }
+}
