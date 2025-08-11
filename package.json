@@ -10,7 +10,7 @@
     "@types/ol": "^7.0.0",
     "sass-embedded": "^1.89.2",
     "typescript": "^5.8.3",
-    "vite": "^6.3.5"
+    "vite": "^7.1.1"
   },
   "dependencies": {
     "ol": "latest"
